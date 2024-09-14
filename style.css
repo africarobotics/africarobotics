@@ -299,8 +299,8 @@ a {
 .header img {
     display: block;            
     width: 100%;               
-    margin: 5px;                 
-    padding: 10px;                
+    margin: 0;                 
+    padding-top: 30px;                
 }
 
 .d-mode, .b-mode {
