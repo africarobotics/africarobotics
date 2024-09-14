@@ -154,7 +154,7 @@ a {
 @media screen and (max-width:840px){
 	.main-nav{
 		position: fixed !important;
-		width: 150px !important;
+		width: 50px !important;
 		z-index: 1000;
 		top: 70px;
 		right:-100% !important;
